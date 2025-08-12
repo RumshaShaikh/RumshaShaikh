@@ -1,5 +1,5 @@
-<h1 align="center">Hey !! 👋 I'm Rumsha Shaikh</h1>
-<h4 align="left">I'm currently working at TCS as an Assistant System Engineer. I'm a passionate Web Developer and Data Analytics Enthusiast, eager to collaborate on new pojects.</h4>
+<h1 align="center">Hey!! 👋 I'm Rumsha Shaikh</h1>
+<h4 align="left">I'm currently working at TCS as an Assistant System Engineer. I'm a passionate Web Developer and Data Analytics Enthusiast, eager to collaborate on new projects.</h4>
 
 <h2 align="left">About Me</h2>
 <p>
@@ -63,7 +63,7 @@
 <br />
 -->
 
-<h2 align="left">Languags and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="center">
   <a href="javascript:;">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
