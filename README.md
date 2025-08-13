@@ -16,8 +16,9 @@
 <!-- - 📄 Know about my experiences [Rumsha_Resume](Rumsha_Resume) -->
 </p>
 
-<!-- <p align="left"><a href="https://muzaffar-khan.github.io/Portfolio/" target="blank"><img src="https://img.shields.io/badge/Rumsha%20Shaikh-Portfolio-green" alt="rumshashaikh"/></a> &nbsp; &nbsp; &nbsp; -->
 <!--
+<p align="left"><a href="https://muzaffar-khan.github.io/Portfolio/" target="blank"><img src="https://img.shields.io/badge/Rumsha%20Shaikh-Portfolio-green" alt="rumshashaikh"/></a> &nbsp; &nbsp; &nbsp;
+
 <a href="https://github.com/RumshaShaikh" target="blank"><img src="https://img.shields.io/badge/Rumsha%20Shaikh-Github-green" alt="rumshashaikh" /> </a></p>
 
 <p align="left"> 
@@ -34,6 +35,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RumshaShaikh?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 -->
+
 <p align="left"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumshashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="rumshashaikh" /> </p>
 
@@ -51,35 +53,53 @@
 
 <p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
 <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
+-->
 
----
-
-<br />
-<h2>Latest Drop</h2> 
+<!--
+<h2>Latest Work</h2> 
 <br />
 <p><a href="https://github.com/simplysabir/smolcase#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/simplysabir/smolcase#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
 -->
 
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
   <a href="javascript:;">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=red" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=green" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=blue" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=for-the-badge&color=yellow" />
-    <img alt="VS CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<!--     <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <br>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<!--     <img alt="Android Studio" src =""/> -->
+    <img alt="PLSql" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <br>
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
+    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+    <br>
+    <img alt="VS CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <br>
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    
   </a>
 </p>
 
