@@ -36,14 +36,15 @@
 </p>
 -->
 
-<p align="left"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RumshaShaikh&label=Profile%20views&color=0e75b6&style=flat" alt="RumshaShaikh"/> </p>
 
 <h2 align="left">Github Profile Stats</h2>
 
+<!--
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=RumshaShaikh&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this."/></a></p>
 
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumshaShaikh&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
+-->
 
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RumshaShaikh&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Refresh page if you're not seeing this." /></a></p>
 
