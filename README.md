@@ -37,29 +37,30 @@
 -->
 
 <p align="left"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumshashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="rumshashaikh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RumshaShaikh&label=Profile%20views&color=0e75b6&style=flat" alt="RumshaShaikh"/> </p>
 
-<!--
 <h2 align="left">Github Profile Stats</h2>
 
-<p align="center"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-streak-stats.vercel.app/api/?user=rumshashaikh&show_icons=true&theme=synthwave&locale=en" alt="rumshashaikh" /></a></p>
-<p align="center"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumshashaikh&show_icons=true&theme=synthwave&locale=en" alt="rumshashaikh" /></a></p>
-<p align="center"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumshashaikh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="rumshashaikh" /></a></p>
+<p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=RumshaShaikh&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this."/></a></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumshashaikh&show_icons=true&theme=dracula&locale=en" alt="rumshashaikh" /></a></p>
+<p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumshaShaikh&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=synthwave" alt="refresh page if you're not seeing this." /></a></p>
+<p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RumshaShaikh&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Refresh page if you're not seeing this." /></a></p>
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
+<!--
+<p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RumshaShaikh&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RumshaShaikh&show_icons=true&theme=dark&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
 -->
+
+<!-- LeectCode Stats: 
+![Leetcode Stats](https://leetcard.jacoblin.cool/rumshashaikh) -->
 
 <!--
 <h2>Latest Work</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/smolcase#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/smolcase#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/RumshaShaikh/smolcase#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-RumshaShaikh.vercel.app/api/pin/?username=RumshaShaikh&repo=smolcase&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/RumshaShaikh/smolcase#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-RumshaShaikh.vercel.app/api/pin/?username=RumshaShaikh&repo=smolcase&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 -->
 
 <h2 align="left">Languages and Tools</h2>
