@@ -45,7 +45,7 @@
 <!-- Github Profile Stats Section -->
 <h2 align="left">Github Profile Stats</h2>
 
-<!--
+<!-- 
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=RumshaShaikh&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this."/></a></p>
 
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RumshaShaikh&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
@@ -53,11 +53,11 @@
 
 <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RumshaShaikh&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Refresh page if you're not seeing this." /></a></p>
 
-<!--
-<p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RumshaShaikh&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
+<!-- <p align="left"><a href="https://github.com/RumshaShaikh" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RumshaShaikh&theme=tokyo-night&locale=en" alt="Refresh page if you're not seeing this." /></a></p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RumshaShaikh&show_icons=true&theme=dark&locale=en" alt="Refresh page if you're not seeing this." /></a></p>
--->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RumshaShaikh&show_icons=true&theme=tokyonight&locale=en" alt="Refresh page if you're not seeing this." /></a></p> -->
+
+<!-- <p align="center"> <img width="845" height="931" alt="image" src="https://github.com/user-attachments/assets/3d325ebd-fb0f-4871-abaf-1053e90a877c" /> </p> -->
 
 <!-- LeetCode Stats Section --> 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/rumshashaikh) -->
